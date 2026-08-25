@@ -21,7 +21,8 @@ I'm a developer focusing on system programming, architecture, and signal process
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e25f1b.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-%234D4D4D.svg?style=for-the-badge&logo=fish&logoColor=white)
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamomile-zh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamomile-zh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
