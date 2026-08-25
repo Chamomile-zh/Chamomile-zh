@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Chamomile-zh/Chamomile-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +24,4 @@ I'm a developer focusing on system programming, architecture, and signal process
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-%234D4D4D.svg?style=for-the-badge&logo=fish&logoColor=white)
 
 ### 📊 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamomile-zh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
