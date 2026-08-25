@@ -25,4 +25,4 @@ I'm a developer focusing on system programming, architecture, and signal process
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-%234D4D4D.svg?style=for-the-badge&logo=fish&logoColor=white)
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chamomile-zh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chamomile's GitHub stats](https://github-stats-extended.vercel.app/api?username=Chamomile-zh)](https://github.com/stats-organization/github-stats-extended)
