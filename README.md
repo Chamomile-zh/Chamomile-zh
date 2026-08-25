@@ -26,4 +26,3 @@ I'm a developer focusing on system programming, architecture, and signal process
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Chamomile-zh&langs_count=5&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Chamomile-zh&langs_count=5&theme=gruvbox)
-[![Chamomile's GitHub stats](https://github-stats-extended.vercel.app/api?username=Chamomile-zh)](https://github.com/stats-organization/github-stats-extended)
